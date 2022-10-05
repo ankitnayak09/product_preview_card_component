@@ -1,0 +1,25 @@
+{
+  "name": "product_preview_card_component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch" : "npx tailwindcss -i ./input.css -o ./css/main.css --watch",
+    "build" : "npx tailwindcss -i ./input.css -o ./css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitnayak09/product_preview_card_component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitnayak09/product_preview_card_component/issues"
+  },
+  "homepage": "https://github.com/ankitnayak09/product_preview_card_component#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
